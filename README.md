@@ -26,3 +26,5 @@ Now that I have pushed it I went to settings, git pages, and created my deployed
 I already to submit my assignment now!
 I go onto the bootcamp website under module 3 and submit my two URL links.
 One link is my deployed link and the other is my URL to my GitHub repository.
+
+DEPLOYED URL:  https://jmizis.github.io/JavaScript-Password-Generator/
